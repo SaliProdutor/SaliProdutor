@@ -17,6 +17,3 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
-
-### Tecnologias em projetos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaliProdutor&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
